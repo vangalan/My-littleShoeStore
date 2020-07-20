@@ -11,8 +11,6 @@ function App() {
       <Nav />
       <Product />
       <Footer />
-
-      
     </div>
   );
 }
